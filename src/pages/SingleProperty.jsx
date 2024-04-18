@@ -8,7 +8,6 @@ import { VscDebugBreakpointData } from "react-icons/vsc";
 import "leaflet/dist/leaflet.css";
 import { Helmet } from "react-helmet";
 import { useNavigate } from "react-router-dom";
-// import marker from "/marker.svg"
 import L from "leaflet";
 const markerIcon = new L.Icon({
   iconUrl: "/marker.svg",

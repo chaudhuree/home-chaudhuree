@@ -45,7 +45,7 @@ export default function MainProvider({ children }) {
   };
   return (
     <MainContext.Provider value={mainValue}>
-      {!loading && children}
+      { children}
     </MainContext.Provider>
   );
 }
