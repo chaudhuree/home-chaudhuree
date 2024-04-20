@@ -23,6 +23,7 @@ export default function MainProvider({ children }) {
         .then((response) => response.json())
         .then((data) => {
           localStorage.setItem("estateData", JSON.stringify(data));
+          setEstateData(data);
         });
       setLoading(false);
     } catch (error) {
