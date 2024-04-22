@@ -38,10 +38,12 @@ export default function SingleProperty() {
 
   return (
     <>
-    {property ?(<div className="container grid grid-cols-12 mx-auto gap-5 items-start pt-10 px-4 font-poppins">
     <Helmet>
       <title>{property?.estate_title}</title>
+      <meta name="description" content={property?.description} />
     </Helmet>
+    {property ?(<div className="container grid grid-cols-12 mx-auto gap-5 items-start pt-10 px-4 font-poppins">
+  
     <div className="col-span-12 md:col-span-6">
       <h2 className="font-semibold text-[40px] lg:text-[50px] leading-[120%] mb-4 mt-3 lg:mt-4">
         {property?.estate_title}
