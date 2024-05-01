@@ -22,7 +22,7 @@ export default function Navbar() {
     <div className="navbar bg-[#FAFAFA] container mx-auto px-[40px] rounded-[70px] mt-9 font-poppins">
       <Tooltip id="avatar" />
       <div className="navbar-start">
-        <div className="dropdown">
+        <div className="dropdown z-50">
           <div
             tabIndex={0}
             role="button"

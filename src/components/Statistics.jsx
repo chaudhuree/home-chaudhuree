@@ -8,7 +8,7 @@ function Statistics() {
       <h1 className=" font-semibold text-[40px] lg:text-[50px] text-center mb-9 lg:mb-11">
         We are a global, boutique real estate brokerage
       </h1>
-      <div className="grid items-center justify-between grid-cols-12 max-lg:gap-10">
+      <div className="grid items-center justify-between grid-cols-12 max-lg:gap-6">
         <div className="flex flex-col lg:col-span-6 col-span-12 max-lg:items-center lg:order-1 order-2">
           <h2 className="lg:text-[38px] text-[20px] font-semibold leading-[120%] mb-6">
             The transfer of real estate

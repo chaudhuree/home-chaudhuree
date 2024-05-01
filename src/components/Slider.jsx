@@ -30,10 +30,10 @@ export default function Slider() {
               <p className="text-black font-poppins text-base font-normal leading-[120%] mb-4">
                 Welcome to Realstate
               </p>
-              <h2 className="text-[67px] font-poppins font-semibold leading-[120%] w-[80%] lg:w-[40%] max-lg:mx-auto">
+              <h2 className="text-[30px] md:text-[67px] font-poppins font-semibold leading-[120%] w-[80%] lg:w-[40%] max-lg:mx-auto">
                 Manage Your Property
               </h2>
-              <p className="leading-6 font-poppins text-base font-normal text-black my-6 w-[60%] lg:w-[40%] max-lg:mx-auto">
+              <p className="leading-6 font-poppins text-sm md:text-base font-normal text-black my-6 w-[60%] lg:w-[40%] max-lg:mx-auto">
                 Your will have everything nearby supermarket, buses , station,
                 the carmen neighborhood, etc
               </p>
@@ -67,10 +67,10 @@ export default function Slider() {
               <p className="text-black font-poppins text-base font-normal leading-[120%] mb-4">
                 Welcome to Realstate
               </p>
-              <h2 className="text-[67px] font-poppins font-semibold leading-[120%] w-[80%] lg:w-[40%] max-lg:mx-auto">
+              <h2 className="text-[30px] md:text-[67px] font-poppins font-semibold leading-[120%] w-[80%] lg:w-[40%] max-lg:mx-auto">
               Luxurious Urban Living
               </h2>
-              <p className="leading-6 font-poppins text-base font-normal text-black my-6 w-[60%] lg:w-[40%] max-lg:mx-auto">
+              <p className="leading-6 max-md:text-sm font-poppins text-base font-normal text-black my-6 w-[60%] lg:w-[40%] max-lg:mx-auto">
               Discover the epitome of urban luxury with our stunning collection of high-end properties in vibrant city centers. Explore now.
               </p>
             </div>
@@ -103,10 +103,10 @@ export default function Slider() {
               <p className="text-black font-poppins text-base font-normal leading-[120%] mb-4">
                 Welcome to Realstate
               </p>
-              <h2 className="text-[67px] font-poppins font-semibold leading-[120%] w-[80%] lg:w-[40%] max-lg:mx-auto">
+              <h2 className="text-[30px] md:text-[67px] font-poppins font-semibold leading-[120%] w-[80%] lg:w-[40%] max-lg:mx-auto">
                 Find Your Dream Home
               </h2>
-              <p className="leading-6 font-poppins text-base font-normal text-black my-6 w-[60%] lg:w-[40%] max-lg:mx-auto">
+              <p className="leading-6 font-poppins text-sm md:text-base font-normal text-black my-6 w-[60%] lg:w-[40%] max-lg:mx-auto">
               Unlock Your Ideal Living. Browse Exclusive Listings & Find Your Ultimate Sanctuary
               </p>
             </div>

@@ -15,7 +15,7 @@ export default function Footer() {
         Life's stages set in bricks and dreams.
         </p>
       </div>
-      <div className="col-span-12 lg:col-span-5 max-lg:order-3">
+      <div className="col-span-12 lg:col-span-5 max-lg:order-3 max-md:hidden">
         <h4 className="font-poppins mb-6 font-semibold text-xl">
           Recent Properties
         </h4>
@@ -45,7 +45,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className="col-span-6 lg:col-span-4 self-center max-lg:order-2">
+      <div className="col-span-12 md:col-span-6 lg:col-span-4 self-center max-lg:order-2">
         <h4 className="font-poppins mb-6 font-semibold text-xl">
           Contact Info
         </h4>

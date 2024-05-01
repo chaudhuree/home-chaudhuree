@@ -8,7 +8,7 @@ export default function NewsLetter() {
         background: `url(${sliderBg}) center, no-repeat`,
         backgroundSize: "cover",
       }}
-      className="w-full  overflow-hidden rounded-2xl py-14 px-9 lg:py-[91px] lg:px-[46px] grid grid-cols-12 gap-10 items-center justify-between"
+      className="w-full  overflow-hidden rounded-2xl py-10 px-6 lg:py-[91px] lg:px-[46px] grid grid-cols-12 gap-5 items-center justify-between"
     >
       <div className="col-span-12 lg:col-span-7 max-lg:order-2">
         <div className="max-lg:mx-auto max-lg:text-center lg:w-full ">
